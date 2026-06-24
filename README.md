@@ -1,4 +1,4 @@
-<h1 align="center">Tejas S</h1>
+<h1 align="center">Hello, I'm Tejas S</h1>
 <p align="center">Full-Stack Software Engineer</p>
 
 <p align="center">
